@@ -1,6 +1,6 @@
-Loop Client Localization Resources
+Loop Localization Resources
 ===========
-Translated strings for loop-client
+Translated strings for [loop](https://github.com/mozilla/loop).
 
 License
 -------
